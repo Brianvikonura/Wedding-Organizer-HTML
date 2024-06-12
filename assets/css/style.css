@@ -218,3 +218,25 @@ html, body {
   color: black;
   border-color: black;
 }
+
+/* catalogue detail */
+.catalogue_image_card {
+  padding: 170px 0px 120px 0px;
+  border-radius: 25px;
+}
+
+.catalogue_image_card .container .row .col-md-12 .card .row .card-1 img {
+  background-size: cover;
+  width: 100%;
+  height: 512px;
+}
+
+.back-href {
+  color: #AD8262;
+  margin-left: 5px;
+}
+
+/* order-form */
+.order-form {
+  padding: 170px 0px 120px 0px;
+}
